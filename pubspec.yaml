@@ -1,0 +1,22 @@
+name: flex_shape
+description: "A new Flutter package project."
+version: 0.0.1
+homepage:
+repository: https://github.com/rydmike/flex_shape
+issue_tracker: https://github.com/rydmike/flex_shape/issues
+
+environment:
+  sdk: ^3.10.1
+  flutter: ">=3.38.1"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+
